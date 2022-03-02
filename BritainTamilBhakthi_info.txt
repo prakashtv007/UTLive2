@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/channel/UCO9X6jY54r0tPDX8vTIVQrg//live
+https://www.youtube.com/channel/UCO9X6jY54r0tPDX8vTIVQrg/live
 
 
 
