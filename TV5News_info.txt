@@ -1,0 +1,8 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+1 | 1 | | 
+https://www.youtube.com/channel/UCAR3h_9fLV82N2FH4cE4RKw/live
+
+
+
