@@ -2,9 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://m.youtube.com/watch?v=zjUfX-pY_NA/live
-
-
-#https://www.youtube.com/watch?app=desktop&v=zjUfX-pY_NA%2Flive/live
+https://youtu.be/zjUfX-pY_NA/live
 
 
