@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/live/scgxTmn-hGA?feature=share/live
+https://www.youtube.com/UCtbo6_eDG7zEtaOtcSltJkA/live
 
 https://utube.psrutube.workers.dev/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
 
