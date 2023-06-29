@@ -2,6 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
+https://www.youtube.com/live/NX18e_Wh7NA/live
+
 https://www.youtube.com/@PuthiyaThalaimuraiTV/live
 
 https://www.youtube.com/watch?v=NX18e_Wh7NA/live
