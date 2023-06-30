@@ -2,5 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://youtube.com/@NewsTamil24X7TV/live
-https://m.youtube.com/c/NewsTamil24X7TV/live
+https://youtube.com/@News7TamilPRIME/live
