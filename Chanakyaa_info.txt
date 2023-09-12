@@ -2,6 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/live/DzxLmfAU0Hs/live
+https://www.youtube.com/live/@Chanakyaa/live
 
 
