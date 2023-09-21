@@ -2,12 +2,11 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/live/ukZUjTRlZMY/live
+https://www.youtube.com/live/N4MZ1QSPhIQ/live
 
 https://www.youtube.com/@NewsTamil24X7TV/live
 
 https://www.youtube.com/live/UCtbo6_eDG7zEtaOtcSltJkA/live
-
 
 
 https://utube.psrutube.workers.dev/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
