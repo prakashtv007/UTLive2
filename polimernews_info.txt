@@ -2,7 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | |
-https://www.youtube.com/live/Uy6nXgdD13slive
+https://www.youtube.com/live/-gNZJzbhpdYl/ive
+
 
 https://www.youtube.com/@PolimerNews/live
 
