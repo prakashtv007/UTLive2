@@ -2,8 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/live/YNWCt_Daz-w/live
 
+https://www.youtube.com/live/TkgxadxhDCc/live
 
 https://www.youtube.com/@NewsTamil24X7TV/live
 
