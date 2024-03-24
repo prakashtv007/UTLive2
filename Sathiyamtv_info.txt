@@ -2,6 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1240324/master.m3u8
+
 https://www.youtube.com/live/Mo-Ib6AsfDc/live
 
 https://www.youtube.com/c/@SathiyamTV/live
