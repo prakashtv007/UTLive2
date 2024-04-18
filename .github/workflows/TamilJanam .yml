@@ -41,7 +41,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x BC.sh
+          chmod +x TamilJanam.sh
           ./TamilJanam.sh
         
       - name: git add
