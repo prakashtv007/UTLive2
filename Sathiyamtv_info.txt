@@ -2,6 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/live/Mo-Ib6AsfDc/live
+https://www.youtube.com/live/WpMgFx3DwK0/live
 
 https://www.youtube.com/c/@SathiyamTV/live
