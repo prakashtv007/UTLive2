@@ -2,6 +2,9 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
+https://youtube.com/@mnadutv/live
+
+
 https://www.youtube.com/live/XY4_et8JCxY/live
 
 
