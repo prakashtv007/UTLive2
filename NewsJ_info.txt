@@ -2,6 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 1 | 1 | | 
-https://www.youtube.com/live/ttq7TDSJChE/live
+https://www.youtube.com/live/jdtQ0Ij0o68/live
 
 https://www.youtube.com/c/NewsJ/live
